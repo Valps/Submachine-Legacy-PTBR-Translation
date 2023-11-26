@@ -1,0 +1,789 @@
+font_id,comfortaa
+alert_no_info,[@archive] :: Dados perdidos. Procure o seu histórico de entropia local pós-transformação.
+menu_game_title,Submachine+newline+Legacy
+menu_start_new,novo jogo
+menu_continue,continuar
+menu_settings,configurações
+menu_controls,controles
+menu_controls_mouse,controles do mouse
+menu_controls_gamepad,controles do gamepad
+menu_credits,créditos
+menu_audio,áudio
+menu_rgb,cor da interface
+menu_rgb_default,cor padrão da interface
+menu_volume,volume
+menu_volume_master,volume principal
+menu_volume_sfx,volume sfx
+menu_volume_mus,volume da música
+menu_sfx,efeitos sonoros
+menu_mus,música
+menu_sfx_move_sound,som de transição
+menu_sfx_find_sound,som de item encontrado
+menu_sfx_sound_0,modernizado
+menu_sfx_sound_1,original
+menu_fullscreen,tela cheia
+menu_screen_shake,vibração da tela
+menu_lights_flicker,luzes piscantes
+menu_speedrun,modo speedrun
+menu_speedrun_btn,modo speedrun
+menu_pause,pausar o jogo
+menu_navigate,navegar
+menu_move_cursor,mover cursor
+menu_delete_saves,deletar todos os saves
+menu_yes_delete,"sim, deletar todos os saves"
+menu_yes_start_new,"sim, começar novo jogo"
+menu_cancel,cancelar
+menu_back,voltar
+menu_back_to_main,voltar ao menu principal
+menu_hold_to_skip,segure para pular
+menu_close,fechar
+menu_save_and_exit,salvar e sair
+menu_zoom,zoom
+menu_exit,sair
+menu_continue,continuar
+menu_inventory,inventário
+menu_tickets,tickets do teletransportador
+menu_yes,sim
+menu_no,não
+menu_0,desligado
+menu_1,ligado
+menu_chapter,capítulo
+menu_chapter_optional,seção opcional
+menu_chapter_title_1,the Basement
+menu_chapter_title_2,the Lighthouse
+menu_chapter_title_3,the Loop
+menu_chapter_title_4,the Lab
+menu_chapter_title_5,the Root
+menu_chapter_title_6,the Edge
+menu_chapter_title_7,the Core
+menu_chapter_title_8,the Plan
+menu_chapter_title_9,the Temple
+menu_chapter_title_10,the Exit
+menu_chapter_title_f,the Future
+menu_chapter_title_0,the Ruin
+menu_chapter_title_32,the Sand
+menu_chapter_subtitle_n,tarefa prioritária
+menu_chapter_title_n,Quadrante Despedaçado
+menu_chapter_title_loop,romper o loop
+menu_start_new_info,Isso vai deletar seu progresso+newline+Você já começou este capítulo anteriormente.+newline+Você realmente quer começar um novo jogo?
+menu_delete_saves_info,Isso vai deletar todo o progresso em todos os capítulos.+newline++newline+Somente as configurações ficarão intactas+newline+e os capítulos que você desbloqueou até agora.+newline++newline+Tem certeza que quer deletar todos os dados salvos?
+menu_speedrun_info,"Esse modo torna as transições entre salas muito mais rápidas.+newline+É uma opção desenvolvida para facilitar a vida de speedrunners.+newline++newline+Se você não é um speedrunner,+newline+Você provavelmente deixará essa opção desligada.+newline++newline+Se você é um speedrunner, então bem-vindo à velocidade."
+menu_credits_info_0,jogo criado por
+menu_credits_info_1,Mateusz Skutnik
+menu_credits_info_2,(traduzido por: Valps)
+menu_credits_info_3,musica e efeitos sonoros criados por
+menu_credits_info_4,ThumpMonks
+menu_credits_info_5,
+menu_credits_info_6,com a música do capítulo 1 criado por
+menu_credits_info_7,Marcus Gutierrez
+menu_thanks,"Obrigado do fundo do coração+newline+por jogar Submachine: Legacy.+newline++newline+Por finalizar toda a história principal+newline+e ficar por aqui pelo tempo que ficou.+newline++newline+Para mim esta jornada durou por 18 anos.+newline+Eu sei que para alguns de vocês também.+newline+Eu te saúdo.+newline++newline+Novamente obrigado. Espero te ver no próximo capítulo da série Submachine:+newline++newline++newline+Submachine: the Engine.+newline++newline++newline+Mateusz Skutnik, 2023."
+menu_thanks_n,"Esta é a saída dos exploradores peritos.+newline++newline+Você tem o meu maior respeito por chegar até aqui.+newline++newline+Eu, por este meio, te promovo a classe de Pesquisador Senior da Subnet.+newline++newline+A sua tarefa foi concluída, mas questões ainda perduram.+newline+Você ainda pode ter suas próprias teorias - compartilhe-as.+newline++newline+Submachine não há mais segredos que você ainda possa descobrir,+newline+não há mais quebra-cabeças para resolver... neste aglomerado da Subnet.+newline++newline++newline+Te vejo em Submachine: the Engine.+newline++newline++newline+Mateusz Skutnik"
+menu_thanks_tomb,[@archive] :: Seção opcional completada.+newline+[@archive] :: Dados foram coletados.+newline+[@archive] :: As coordenadas do novo monolito foram arquivadas.+newline+[@archive] :: Um novo caminho monolítico foi desbloqueado.+newline+[@archive] :: Obrigado por sua cooperação.
+menu_thanks_tomb_no_mono,[@archive] :: Seção opcional completada.+newline+[@archive] :: Dados foram coletados.+newline+[@archive] :: Obrigado por sua cooperação.
+tut_interact,interagir
+tut_open_door,abrir porta
+tut_pull_lever,puxar alavanca
+tut_enter_door,entrar
+tut_collect_item,coletar item
+tut_open_inventory,abrir inventário
+tut_take_item,pegar item do inventário
+tut_use_item,usar item do inventário
+tut_edge,atravessar espaços abertos
+note_s1_diary_1,"No último verão, eu finalmente pude peregrinar para as cachoeiras de Kent. Essa jornada foi muito positiva, mas apenas algumas poucas pessoas reconheceram isso.+newline++newline+Apesar de ter perdido o meu braço esquerdo, eu ganhei um terceiro braço. Um braço invisível. Desde então eu comecei a aprender a usar meu braço de carma, e em breve me aperfeiçoarei em seu uso.+newline++newline+Não foi uma surpresa para mim quando as pessoas começaram a virar-me as costas. Eu fui considerado um risco para a nossa sociedade,+newline+um perigo para a própria Estrutura.+newline++newline+Não consigo explicar porque isso simplesmente não é verdade. Eu conheço mentes mais poderosas que a minha que ponderaram os Conceitos Sagrados do uso da energia cármica. Eu sei disso. Mas essas pessoas não chegaram ao estado em que me encontro agora.+newline++newline+Como eu posso explicar?"
+note_s1_variations,"- Então... foi aqui que tudo começou?+newline+- Sim e não. Esta é uma das novas variações deste lugar. Eu acho que é a oitava, ou nona.+newline+- Nós não mantemos todas as variações arquivadas?+newline+- Sim, com certeza. Mas esses arquivos também flutuam durante as transformações.+newline+- Isso significa que... nós não temos arquivos confiáveis?+newline+- Bom, as coisas ficaram um pouco embaçadas quando voltamos à Primeira Transformação.+newline+- E então, como podemos ter certeza?+newline+- Não podemos. Somente ele pode.+newline+- Como?+newline+- A memória humana, apesar de ser a fonte de dados menos confiável, não flutua durante as Transformações."
+note_s2_diary_2,"E então estou querendo apenas viver minha vida pacificamente, sem perturbar ninguém.+newline++newline+O trabalho de mantenedor de faróis pareceu se encaixar comigo. Eu queria passar o resto da minha vida nesse farol.+newline++newline+Depois de cinco meses, meu isolamento veio ao fim quando eles decidiram enterrar esta instalação. Meu pior medo sempre foi de ser enterrado vivo. Mas e quanto a ser enterreado vivo dentro de um edifícil?+newline++newline+Eu não queria correr nenhum risco.+newline++newline+Estou indo embora hoje. Para aqueles que estão me perseguindo: descupe...+newline++newline+Atenciosamente, Mur. "
+note_s2_letter_to_liz,"Cara Elizabeth,+newline++newline+Nem mesmo nos meus sonhos mais esquisitos eu pensaria que seria capaz de criar caminhos entre dimensões, levando a lugares inexplorados. Meu experimento mais recente me levou diretamente para debaixo do farol, nos restos enterrerados da construção original.+newline++newline+A partir de agora você pode me chamar de explorador. Eu só usei um fragmento cristalino que encontrei recentemente como fonte de energia.+newline++newline+Imagine os lugares que poderíamos ir usando todo o poder da luz do farol. Estou ponderando me mudar para outro lugar nos próximos 32 dias.+newline++newline+Você pode cuidar de Einstein para mim?+newline++newline++newline+Cordialmente, M."
+note_s2_cat,"Hoje aconteceu a coisa mais esquisita.+newline++newline+Quando acordei, havia um gato preto dentro do farol. Eu lembro claramente de ter fechado todas as portas e janelas antes de ir dormir - mas - ali ele estava. Não faço ideia de como ele entrou. Isso me incomoda.+newline++newline+Eu o nomeei de Einstein, visto que ele aparentemente é capaz de quebrar as barreiras do espaço-tempo sempre que desejar. O que todos os gatos fazem, provavelmente, mas esse em particular fez isso bem na frente dos meus olhos. Bem, não exatamente, mas é inegável que ele está aqui agora.+newline++newline+Fiquei pensando se isso tem algo a ver com a minha habilidade de criar portais entre dimensões com o meu braço de carma.+newline++newline+Acho que veremos com o tempo. "
+note_s2_self,Einstein se foi.+newline++newline+De novo.+newline++newline+Estou farto disso. Nota para mim mesmo - parar de se preocupar com essa droga de gato.
+note_s2_portal,"E então aqui está.+newline+Eu fiz um portal aqui, mas ele não é estável. Eu vou usá-lo, mesmo que não consiga te dizer onde que eu vou parar.+newline++newline+Sinta-se livre para usá-lo quando quiser, mas lembre-se que o número de possíveis destinos está além da mais brava imaginação.+newline++newline+Ou estou somente te dando uma alternativa para escapar deste farol.+newline++newline+De qualquer forma - decida-se se você vai usar o portal ou não.+newline++newline++newline+m "
+note_s2_artifacts,"Armazém de artefatos protótipos da Primeira Era.+newline++newline+Lista de objetos anteriores à mutação:+newline++newline+1. radio layer changer, discontinued+newline+2. single view paper photograph displayer, discontinued+newline+3. 72 angle protection portal stabiliser+newline+4. paired-shard crystalline transformer, discontinued+newline+5. 3-ring transporter, discontinued+newline+6. display machine of unknown use"
+note_s3_cycle,As salas resetam a cada ciclo.+newline+A bússola vai reaparecer em breve.+newline++newline+Se apenas eu soubesse em qual ciclo estou...
+note_s3_mark,Ele falou para fazer uma marca neste papel toda vez que eu passar.
+note_s3_stroll,Nunca perambule muito longe do centro.+newline+Nunca.+newline++newline+Uma vez eu tinha uma companheira.+newline+Ela falou que queria verificar o quão longe essas salas podem ir.+newline++newline+Eu nunca mais a vi novamente.
+note_s3_loop,"Já percebeu que a cada quebra-cabeça resolvido, você está afundando cada vez mais?+newline++newline+Não parece um bom plano de escape. A máquina como um todo é uma enorme armadilha. Para escapar, você deve primeiro parar de resolver esses quebra-cabeças ou você ficará neste loop eternamente. O loop não tem limites, sem fim nem começo. É o pior lugar em que você pode se encontrar depois de se teleportar do farol.+newline++newline+O que eu quero que você faça: Não ative o mecanismo em [0, 0]. Ao invés disso, procure por uma folha verde, e traga-a ao estabilizador em [-12, 9]. Isso deve te desconectar do loop. Nesse caso você deve aterrissar no laboratório, ou em algum lugar próximo. Boa sorte!+newline++newline+Mur."
+note_s4_coords,"Coordenadas dos locais conhecidos:+newline++newline+laboratório :: x = 0, y = 0, z = 1;+newline+seção antiga :: x = 1, y = 0, z = 4;+newline+armadilhas em loop :: x = 6, y = 9, z = 0;+newline+seção do porão :: x = 5, y = 2, z = 9;+newline+escavações do farol :: x = 4, y = 6, z = 2;+newline+armadilha nas tumbas :: x = 7, y = 7, z = 0;+newline+o navio :: x = 8, y = 0, z = 0;+newline++newline+Quatro equipes estão explorando+newline+outras conexões desconhecidas."
+note_s4_lab_1,Inicialmente pensávamos que só existia um submachine.+newline++newline+E então Murtaugh chegou e nos mostrou a verdade. A habilidade dele de criar portais cármicos entre regiões o possibilitou explorar mais de um terço da Rede. Ele levou 32 anos para fazer isso.+newline++newline++newline+O quão bobos fomos nesses últimos anos...
+note_s4_lab_2,"Usando a tecnologia de Murtaugh, nós fomos capazes de construir nossos próprios teleportadores para mover entre dimensões.+newline++newline+Nós temos o laboratório montado, temos equipes de exploração e reconhecimento, nós vamos em missões adentrando na Rede tentando descobrir novos lugares e estruturas deste grande quebra-cabeça.+newline++newline+Murtaugh uma vez disse que não há grande quebra-cabeça, nenhum grande plano, e que ninguém está controlando o submachine. Mas pensamos o contrário. Deve haver algum propósito para todas as coisas. Nós só temos que encontrá-lo. Eu pensei que tudo isso era possível, mas desde que Murtaugh nos abandonou, não temos mais certeza.+newline++newline+Mas nós encontramos o nosso propósito, vemos claramente.+newline++newline++newline+Não é?"
+note_s4_fluid,"Se o fluido da máquina acabar,+newline+aqui está a receita para um fluido improvisado.+newline+Pegue esses ingredientes e ferva-os na água:+newline++newline+- sabonete comum+newline+- solução de óxido de ferro+newline+- algumas naftalinas+newline++newline+Afunile a solução dentro da máquina. Deve funcionar. Poderia, por favor, informar à equipe de manutenção que estamos em uma escassez de fluidos?+newline++newline+Obrigado!+newline+Bunny."
+note_s4_portal,"Nossa missão só começou. Murtaugh nos ensinou a necessidade de escrever notas e largá-las nos lugares em que foram feitas. Isso é para deixar um rastro caso alguém se perca. Mas todos nós somos muito bem treinados, nada de ruim pode acontecer. Não agora.+newline++newline+Isso é só para garantir. Nós estamos nos movendo para a seção do navio: nossa missão é chegar ao convés superior do navio.+newline++newline++newline+Fim de transmissão."
+note_s4_coil,"Nós nem começamos a explorar essa antiga seção e nossa bobina já está sem energia.+newline++newline+Alguém provavelmente esqueceu de recarregá-la. Mas a situação é séria.+newline++newline+Nós não sabemos os números da seção do porão. As coordenadas estão na nossa sede, e claramente não podemos voltar atrás.+newline++newline++newline+Nós vamos tentar fazer saltos cegos assim que conseguirmos uma conexão, mas onde iremos parar, simplesmente não sei."
+note_s4_basement,"Murtaugh nos visitou hoje. Ele falou que devido ao fato de não termos conseguido carregar o laser para quebrar o Orbe, ele está retornando-o para sua posição original.+newline++newline+Que legal.+newline++newline+Além disso, recebemos uma mensagem do time de exploração da seção antiga dois dias atrás. Não consigo dizer porque eles começaram a tentar saltos cegos e encontraram uma coordenada. 551, uma espécie de sala de tijolos ou algo parecido. Como se isso importasse. Afinal nós não os veremos mais novamente."
+note_s4_broken,"Nossa bobina está quebrada, e não temos uma de reserva. Agora não serve para absolutamente nada.+newline++newline+Toda aquela luta com essas malditas máquinas. Há mesmo algum tipo de mundo normal fora dessa bagunça sem fim? De novo e de novo, sem começo nem fim. Qual o nome dele mesmo? Aquele homem de um braço só? Esqueci até isso.+newline++newline+Desisto. Não me importo mais."
+note_s4_human,"Você já percebeu que você nunca encontrou sequer um sinal de presença humana nas submachines? Não importando qual delas? Mas há pelo menos quatro times perambulando pela vasta rede do submachine. E provavelmente tem outras pessoas também. Quais as chances de nunca encontrar alguém aqui?+newline++newline+Mas por outro lado, quais as chances de encontrar formas de vida alienlígena no universo?"
+note_s4_ship,"Prescindível essa equipe.+newline++newline+Onde eu ouvi isso? Da companhia, ou ainda de um escalão mais alto? deixa pra lá... Nesse meio tempo, tentamos quase todas as formas possíveis de desbloquear essa maldita escada. Essa tranca simplesmente não abre. A nossa última alternativa é explodí-la. Estamos ajeitando os cabos agora, e com sorte alguém de nós sobreviverá e finalmente verá o que há no convés superior deste navio. Eu vou escrever outra nota logo após a explosão, isto se conseguirmos sobreviver."
+note_s4_bunny,"Estou presa, me ajuda!+newline++newline+Eu cheguei até a sala do portal no laboratório, e então encontrei a bobina na seção antiga mas não sei o que fazer depois. Eu vi que pessoas estão deixando papeis por onde passam, então se alguém puder me ajudar...+newline++newline+Estou muito confusa, toda vez que eu encontro um item eu tenho que vaguear pelas submachines procurando um uso para ele. Agora estou muito cansada. Por favor, me ajuda!+newline++newline+sunshine_bunnygirl_17"
+note_s4_loop,"Eu já estive aqui antes!+newline++newline+Eu lembro dessas malditas salas em loop. Se eu pudesse apenas lembrar o que era tudo isso. Uma máquina desbloqueando mais conexões, uma bússola me mostrando coordenadas...+newline+Sim! Era tudo sobre coordenadas! Mas aqui não há mais a bússola.+newline++newline++newline+O que fazer?..."
+note_s4_clues,"Sem pistas.+newline++newline+Sem pistas.+newline++newline+Espere,+newline+o que eu estava fazendo aqui?"
+note_s4_water,"Preciso de água. Tenho que encontrar água. Não muito, uma gota deve ser suficiente. Só uma gota de água. Tudo o que vejo é areia,+newline+32 câmaras preenchidas de areia.+newline++newline+Anotar as coordenadas, ele falou. Queria ter feito isso. Eu preciso de água.+newline++newline++newline+Só uma gota..."
+note_s5_approval,"Parabéns, você passou sem falhar pelos testes. Sua utilidade foi positivamente considerada. Você pode começar a trabalhar no laboratório amanhã.+newline++newline+Aguarde por mais instruções."
+note_s5_assign,"Primeira tarefa:+newline++newline+- recuperar três fragmentos cristalinos de energia perdidos durante anos na subrede. Esses artefatos, elaborados na primeira era por um inventor desconhecido são as únicas fontes de energia usáveis no pináculo situado no corredor.+newline+Esse local pode ser acessado em [7-4-7].+newline++newline+- carregue a máquina.+newline++newline+- investigue a parte externa da rede.+newline++newline+- retorne ileso."
+note_s5_mail,"Olá.+newline+Dormiu bem?+newline++newline+Eu tenho uma tarefa para você.+newline+Você parece ser a nossa melhor escolha para esse trabalho, já que o seu treino envolveu lidar com esses cristais de energia. Você tem que monitorar suas ações e recuperá-los.+newline+A forma mais fácil é acessar a base raíz e começar de lá.+newline+As coordenadas da raíz são: [5, 5, 2].+newline+Seu IP me diz que você atualmente está na seção do laboratório as com coordenadas [0, 3, 8].+newline+Boa sorte.+newline++newline+Murtaugh"
+note_s6_pointless,"Well, that's it...+newline++newline+I see no point in holding on any longer.+newline++newline+No one's coming, I've been a fool all this time.+newline++newline++newline++newline+Pointless..."
+note_s6_protocol,"Do not mess with protocols.+newline++newline++newline+If you do, they will lock you inside.+newline+I've seen that happen before.+newline++newline+That's not a good way to die out here.+newline++newline+Anyway, I've had enough.+newline+I'm not going in there anymore."
+note_s6_he,"Did he tell you that you were the first one sent out here?+newline++newline+Well, news flash, my friend..."
+note_s6_sent,"I was sent here by Murtaugh.+newline++newline+Of course, who else.+newline++newline+My objective was to disable the defense systems, so the invasion could reach the core of the subnet. I know that I wasn't the first one sent out here. I know there were at least 5 people before me.+newline++newline+And as hard as it might be to hear, you have to hear this:+newline++newline++newline+Just as I wasn't the first here, you probably won't be the last."
+note_s6_lies,don't believe in his lies.+newline++newline++newline++newline++newline++newline+
+note_s6_game,"I never thought that playing in Murtaugh's game would lead me here.+newline++newline+I never thought I would have to make a choice. I was just following his orders. Right now it's too late for me to change sides. For you as well, probably.+newline++newline+But if you have a chance...+newline++newline+Find Liz. She will guide you. If he's the explorer, she's the solver."
+note_s6_prototype,"Transporter prototype 2/32.+newline++newline+Prototype developed for transportation of maintenance units between different sections of the subnet.+newline++newline+The prototype came into contact with the human factor and was reverse-engineered in order to transport humans.+newline++newline+Primary function deleted.+newline++newline+As a main factor in the infestation spread, the prototype was considered a failure."
+note_s7_entry_point,Note to self.+newline+Possible entry points failed.+newline+Check on [291].+newline++newline++newline+Good feeling about this one.
+note_s7_garden,How could they have possibly known?+newline++newline+How could they mimic the structure of the subnet so accurately within simple garden plans?...+newline++newline+This is completely baffling.+newline++newline++newline+L.
+note_s7_collapse,"So when things started to collapse, why did certain bits and pieces get left behind?+newline++newline+They just stayed in place...+newline+And why those in particular?+newline++newline++newline+L."
+note_s7_sociopath,Why does this sociopath+newline+talk only to Elizabeth?
+note_s7_portal,"Now you know how Murtaugh's karma portals work. You just used one. They can in fact transport you through different dimensions.+newline++newline+However the ones drawn within the core are... short range. Those were the first ones he has ever drawn. A test. Baby steps if you will.+newline++newline+Now that you used one - please, do not use them anymore. They shatter the fabric of this dimension. Murtaugh neglected that fact and... Just look around where we ended...+newline++newline++newline+L."
+note_s7_dock,"I know it is kind of ironic to dock my laboratory out here in the ruins of the winter palace.+newline++newline+The king always wanted this palace to become a safe haven for people of science.+newline++newline+Here I am, my king.+newline++newline++newline+L."
+note_s7_loop,"If the subnet is the universe,+newline+then the loops are black holes."
+note_s7_book,"[...]+newline+The Fourth Dynasty at the peak of its cultural and technological development was able to create the first man-made submachine structure. That was around the beginning of the twentieth century and is now considered the birthdate of the outer ring.+newline++newline++newline+Those first structures were merely flawed copies of the original structures, but in time they grew into something completely autonomous. Attempts to chart new territories failed miserably leaving the vast submachine wilderness to its own.+newline+[...]"
+note_s7_plan,"Once the great scheme of things was clearly visible through the layers of seven main dimensions.+newline++newline+Now, due to corrosion, collapse and spontaneous growth of the outer ring the plan is almost unrecognizable.+newline++newline+We humans deserted the outer ring, and the outer ring responded with deserting us.+newline++newline+Nothing but decay ensues.+newline++newline++newline+The plan is lost."
+note_s7_liz,"Hello.+newline+My name is Elizabeth.+newline+Welcome to my temple of solitude.+newline++newline+There is a great chance that you wandered here after being tested by Murtaugh. If that is the case, I am very sorry that I couldn't get to you before him. It must have been tough on you to get through all his traps, tests and tasks to fulfill. However - worry no more. If you can't find me in the garden, then I am at my laboratory and will be joining you shortly.+newline++newline+Please wait patiently here and try not to touch anything.+newline++newline+Thank you.+newline++newline++newline+L."
+note_s7_reason,It's no wonder they wanted to bury this whole lighthouse with him still inside.+newline++newline+The collapse death toll was growing exponentially.+newline++newline++newline+L.
+note_s7_letter,"My dear Elizabeth.+newline++newline+Even in my strangest dreams I never thought I would be able to create cross-dimensional pathways leading to new unexplored places. My new experiment took me right below the lighthouse straight into the buried remains of the original construction.+newline++newline+You can call me a discoverer from now on. Mind you, I only used a crystalline shard I found lately as a source of energy.+newline++newline+Imagine where we could possibly go using the lighthouse itself and its full power of light. I'm considering moving to another place in the next 32 days.+newline++newline+Will you take care of Einstein for me?+newline++newline++newline+Yours, M."
+note_s7_re,"Dear Murtaugh.+newline++newline+I understand your desire to build another karma portal within the lighthouse. I urge you not to do this. Once you leave the core no one knows where you'll end up. The outer ring is endless. No one knows what types of mutations of submachines grew out there.+newline++newline+I will take care of Einstein, but remember this. Once you step through that portal - you can never go back.+newline++newline+The core will be forever lost to you.+newline++newline+L."
+note_s7_man,Once there was a man who said he knew what was happening after Murtaugh left.+newline++newline++newline+Since then that man left us as well.
+note_s7_enlightenment,I finally understood how they could mimic the structure of the subnet within a garden...+newline++newline+They didn't have to mimic. They were already living inside the subnet.+newline++newline+L.
+note_s7_final,"I can hear Murtaugh breaching the defenses of my ship. It is high time for me to leave this dimension.+newline++newline+I'm sorry I couldn't wait for you any longer, but I fear that with one more karma portal placed this dimension will collapse entirely.+newline++newline+I know what he wants to do. I know why he came back to the core. He's after those who buried him alive in that lighthouse.+newline++newline+I have to warn them. I have to get to the fifth layer. I wish you could follow me but I have only one rescue pod left.+newline++newline+I am sorry.+newline+Elizabeth."
+note_s8_direction,"transcript 17 / 38+newline++newline++newline+Liz: You can create dimensional portals while being inside of such a portal?+newline++newline+Murtaugh: Yes, I can.+newline++newline+Liz: And when you do, what happens then?+newline++newline+Murtaugh: ... You change direction...+newline++newline+Liz: Direction of what?+newline++newline+Murtaugh: Of everything."
+note_s8_why,"I clearly remember the day it all ended. It was not long after computer processing power exceeded that of the human brain. Many thought that this was the turning point, but not so. The moment came a bit later. I remember, because I was there, when we asked the biggest question. The one we've been struggling with for millennia.+newline++newline+Why are we?+newline++newline+But this time the question wasn't directed at us. We asked the computer. And that was the turning point in the history of humanity. That exact moment. Once we acknowledged that we're not the most evolved structure on our planet, once we passed the torch, our purpose diminished. Did we expect the computer to fry under the heaviest of questions? Of course. So you can imagine our surprise, when this happened.+newline++newline+The computer answered the question."
+note_s8_where,- Where are you?+newline+- I'm standing right next to you. Can't you see me?+newline+- No.+newline+- Let's compare our geotags once more.+newline+- Something's off. We are at the same location. But...+newline+- Where are you?
+note_s8_mur,Murtaugh is coming back.+newline+We should go.+newline++newline+We should go now.
+note_s8_shape,- But why the boundaries. Why this particular shape?+newline++newline+- The idea is to give you a glimpse of the plan. Just a glimpse. Seeing it in all its glory would blind your mind.
+note_s8_toy,- This is just a toy. Just a toy.+newline++newline+- It's not a toy. It's a knot. You have to untie it. Unless you're Alexander.
+note_s8_beam,- I never knew a beam of light+newline+could bend like that.
+note_s8_see_note,"- Do you see it now?+newline++newline+- Yes... How is it even possible.+newline+They're interlocking perfectly...+newline++newline+- Who needs god, when+newline+you have architects+newline+like that, right?"
+note_s8_secret_talk,- Why does this sociopath only talk to Elizabeth?+newline++newline+- Your question is wrongly put. You wanted to ask: why doesn't he talk to us. The answer is simple: he doesn't see us. Does that make him a sociopath? Not necessarily. But that does mean he's focused.+newline++newline+
+note_s8_secret_loop,"- Have you ever been to the place called the loop?+newline++newline+- Yes, of course.+newline++newline+- See, this knot is just like the loop. Well, maybe not exactly, but it serves the same purpose.+newline++newline+- In that case... What is so important in layer 5?...+newline++newline+[deleted]+newline++newline+[deleted]+newline++newline+[deleted]+newline++newline+"
+note_s8_secret_regret,Murtaugh: If there's one thing I regret - it's the fact that of all people I sent to the edge no one ever came back. Not a single soul. That will haunt me for the rest of my life...+newline++newline+Liz: I know.+newline++newline+
+note_s8_secret_impossible,- But that's impossible! He can't be in different dimensions at the same time!+newline++newline+- Impossible? What does that even mean?...+newline++newline+
+note_s8_secret_see,"- Doesn't he understand that his karma portals are shattering this dimension?+newline++newline+- This dimension? You mean the third one? You know that's not even the original dimension, right? What do you think is more important - the original or a flawed copy?"
+note_s9_neither,"- So, did you travel too far, or too early?...+newline++newline+- What if I told you - neither?"
+note_s10_tele_micro,"- We're in a loop.+newline++newline+- Yes, I know, there are time anomaly leaks everywhere, but we're not in one right now. Are we?+newline++newline+- No, not a horizontal loop. A vertical one.+newline++newline+- What do you mean?+newline++newline+- Look through my microscope. And then through my telescope. You'll see."
+note_s10_usher,"- I think you're ready to enter the Submachine. You know more than enough and will probably find out more on your journey. Remember, this can destroy or transform you. But you will not return the same man. May the wisdom of Thoth guide you.+newline++newline+- Thank you, holy usher. I will not fail you.+newline++newline+- Don't fail yourself, my young disciple."
+note_s10_tombs,"- I've found my grave today. A proper tomb, in fact...+newline++newline+- Well, I guess that's bound to happen sooner or later if you're a time traveller.+newline++newline+- I've also found your tomb, right next to mine.+newline++newline+- Oh, that's so sweet of them."
+note_s10_sub_dim,"- If there is a countless number of sub-layers, it's practically impossible for two people to end up in the same layer, right?+newline++newline+- Yes, good observation.+newline++newline+- But non-living matter can be persistent between layers. Parts of buildings, anchors, even portal stabilisers?+newline++newline+- Yes, there are special building materials mixed with just a hint of karmic water. This technique was discovered during the Fourth Dynasty.+newline++newline+- Naturally. The architects of the Plan...+newline++newline+- So you can imagine how a non-living sentient organism, powered by the super-intelligence of Shiva, was able to embrace all layers at once. The Submachine is now living in five dimensions."
+note_s10_fix_all,"- You can't fix everything, just let it go. Submachine doesn't need your help. It's fine as it is.+newline++newline+- You know you're taking away my life's goal, right?+newline++newline+- We'll find you a new one, don't worry. You were part of this organism, I admit, a crucial one, but just a part nonetheless. You can't think of yourself any bit higher. That would be arrogant, and that's not you anymore.+newline++newline+- What would I do without you,+newline+my dear..."
+note_s10_lamp_off,"- How will you know that they're coming?+newline++newline+- I'll keep my eye on the lighthouse. Once the lamp goes off, they'll be coming.+newline++newline+- But that lamp is behind steel curtains...+newline++newline+- Don't worry. I'll know once it's off."
+note_s10_listens,To anyone who might still be looking for help on this frequency.+newline++newline++newline+I'm coming back to the shrine every 32 years.
+note_s10_crown_conv,Light crown converter needed to connect light crown to the fuse outlet.
+note_s10_how_he,"- So how did he escape after all?+newline++newline+- Through the lighthouse, naturally.+newline+How else?..."
+note_s10_letter_liz,"Dear Elizabeth.+newline++newline+I'm so close! You won't believe how much progress I've done in the last... How long was it?... Three years? Three and a half? My lord, it feels good to be focused again. I know this sounds stupid, but as a time traveller I have to say it feels good to see time run by you.+newline++newline+Anyway, back to the subject at hand. My theory of focused karma was correct! I have scientific evidence at my laboratory. Once it doesn't penetrate any two given layers creating a portal - it actually restores previously destroyed sub-molecular order. Now, all I need is some kind of... portable karma stabiliser, and I'm good to go!+newline++newline+Just imagine - stable and secure karmic portals. Would you believe that?+newline++newline+M."
+note_s10_letter_mur,"Dear Murtaugh.+newline++newline+That's great news. Please remember one thing. Submachine didn't wait for this discovery, it moved on and is healing itself, as any normal organism would. Did you see the power generator in the oldest sections of the root? The one destroyed by your portal a long time ago? Now it's being rebuilt by five karmic veins. If you haven't seen it - please do, it's remarkable proof that Submachine became a sentient being.+newline++newline++newline+L."
+note_s10_lumiere,"- But how is it possible, that she knew the Submachine was sentient and reasoning? That's like the Lumiere brothers talking about retina cinema of the early 21st century.+newline++newline+- Don't forget, that's Elizabeth you're talking about. Right?+newline++newline+- ... Right..."
+note_s10_sub_body,"- Wait, Submachine was already sentient that early?+newline++newline+- Of course. The mainframe of Submachine became conscious once its processing power surpassed that of the human brain. They asked the question, remember? And Shiva answered. Submachine was sentient for at least 32 days before that.+newline++newline+- Now I understand. Shiva is the brain, Submachine is the body. It's all so clear now."
+note_s10_sub_layers,"- Do you know how many numbers there are between 0 and 1?+newline++newline+- ... Infinite?...+newline++newline+- Exactly. There is a countless number of sub-layers between any two main layers of reality. The important thing to remember is that as there are seven main layers, all stable, as all their sub-layers, there is also the eighth layer, known as the layer of light, which is not stable and can float freely through all other layers. Murtaugh was trapped in the eighth layer once, that's why he was unable to focus his being on a single layer. Fortunately Elizabeth managed to snap him out of this trap."
+inf_s2_library,biblioteca
+inf_s2_bathroom,banheiro
+inf_s2_pamphlet_1,Bem-vindo!
+inf_s2_pamphlet_2,Bem-vindo ao mundialmente+newline+famoso Farol de Kent.+newline+Esta estrutura foi erguida+newline+em 1857 por sir Henry o'Toole.+newline+É dito que este+newline+farol foi construído+newline+sobre as ruínas de uma masmorra de uma+newline+prisão medieval.
+inf_s2_pamphlet_3,"Esta é uma das nossas+newline+atrações turísticas+newline+visto que você pode visitar+newline+as escavações arqueológicas+newline+nas seções mais baixas+newline+do farol, logo abaixo+newline+do porão.+newline+Pergunte ao seu guia+newline+sobre esse detalhe."
+inf_s2_aqa_weight,Quanto você pesa hoje?
+inf_s2_aqa_camera,_estado :: vazio
+inf_s2_value_of_m,o valor de m é
+inf_s3_do_not_solve,NÃO resolva este quebra-cabeça...
+inf_s4_chat_0,[@lab] :: root.ping//144.235.182.100
+inf_s4_chat_1,[@mur] :: Quem é?
+inf_s4_chat_2,[@mur] :: Você está no laboratório?
+inf_s4_chat_3,[@mur] :: E não tem um teclado??
+inf_s4_chat_4,[@mur] :: Há uma explicação...+newline+Você escapou do loop...+newline+Não foi?
+inf_s4_chat_5,"[@mur] :: ok, primeiramente você precisa chegar à sala do teleportador. E está protegida por uma grade. A essa altura, é muito improvável que vá conseguir no laboratório alguma senha para abrí-la."
+inf_s4_chat_6,"[@mur] :: Conseguindo chegar ao teleportador, você vai precisar de coordenadas para usá-lo. Eu tenho uma lista delas aqui."
+inf_s4_chat_7,[@mur] :: Estou imprimindo agora a lista para você.
+inf_s4_chat_8,[@mur] :: Vá para o teleportador. Use-o para se deslocar. Talvez você seja capaz de se virar sozinho para conseguir isso. Boa sorte.+newline+M.
+inf_s4_fluid_1,status :: nível do fluido muito baixo
+inf_s4_fluid_2,status :: funcionando
+inf_s4_need_flame,Você precisa de uma chama para aquecer água.
+inf_s4_transporter_no_list,Você precisa de uma lista de coordenadas para usar o teleportador.
+inf_s4_transporter_0,status :: conexão desconhecida
+inf_s4_transporter_1,status :: já conectado ao local
+inf_s4_turbine_working,spinning turbine overflow health hazard
+inf_s5_emergency_exit,saída de emergência
+inf_s5_brief,"Recupere os três fragmentos cristalinos de energia. +newline++newline+Acesso da Base Raíz :: [5, 5, 2]+newline+Corredor :: [7, 4, 7]+newline+Esta seção do laboratório :: [0, 3, 8]+newline++newline+Entre no pináculo localizado no corredor.+newline+Energize a máquina.+newline+Investigue a parte externa da Rede.+newline+Retorne ileso."
+inf_s5_brief_missing,Você precisa do resumo da missão para acessar o teleportador.
+inf_s5_cipher_current,status :: já conectado ao local
+inf_s5_acid_drain,este banho ácido ainda pode ser útil...
+inf_s6_pinnace_1,> rev :: sd.sys
+inf_s6_pinnace_2,> alerta_init :: quebra de proxy
+inf_s6_pinnace_3,> alerta_id :: 0-23-17
+inf_s6_pinnace_4,"> alerta_desc :: envio não-programado do pináculo de manutenção, conjunto 0015"
+inf_s6_pinnace_5,> exe :: interceptador.sys
+inf_s6_pinnace_6,> perseguidor_init :: alerta: alvo encontrado
+inf_s6_pinnace_7,> alvo_id :: alerta_id
+inf_s6_enter_pin,insira o número de identificação pessoal:
+inf_s6_security_level,nível de segurança:
+inf_s6_to_open_cube,para abrir o cubo+newline+insira o número de identificação pessoal:
+inf_s6_system_unauthorized,acesso_sem_autorizacao
+inf_s6_system_door_5,controle da porta de segurança 5 nível 1
+inf_s6_system_door_8,controle da porta de segurança 8 nível 2
+inf_s6_system_protocol_disabled,protocolo_desativado_ / busca_falha_
+inf_s6_system_infestation,mapa da infestação na subnet
+inf_s6_system_idn_not_present,número de identificação pessoal ausente
+inf_s6_system_54_5_disabled,protocolo 54-4+newline+desabilitado
+inf_s6_system_human_hack,tentativa de hack humano / iniciar: protocolo 54-1
+inf_s6_system_gate_3_18,porta 3/18
+inf_s6_system_protocol_1,protocolo 54-1
+inf_s6_system_protocol_2,protocolo 54-2
+inf_s6_system_protocol_3,protocolo 54-3
+inf_s6_system_protocol_4,protocolo 54-4
+inf_s6_system_graph_denied,diagrama de acesso ao elevador negado ::+newline+ _protocolo 54-3
+inf_s6_system_elevator_disabled,diagrama de acesso ao elevador negado ::+newline+ _sd_ primário offline
+inf_s6_system_incoming_message,mensagem recebida
+inf_s6_system_from_blocked,de: _bloqueado_
+inf_s6_system_from_murtaugh,de: Murtaugh
+inf_s6_system_message_from_blocked,de: _bloqueado_+newline+@ _bloqueado_+newline++newline+início: cabeçalho não reconhecido+newline+tag: externo+newline+ext: infectado+newline++newline+protocolo 54-2+newline+bloquear e isolar em quarentena
+inf_s6_system_message_from_murtaugh,"de: Murtaugh+newline+@lab+newline++newline+Eu não sei se essa mensagem vai chegar a alguém ou se vai ser descartado pelo firewall do sistema de defesa, mas se existe alguma mínima chance, então devo tentar.+newline+---------------+newline+Eu preciso que você desabilite os seguintes protocolos:+newline+2-18 - SD secundário+newline+1-12  - SD primário+newline+1-0 - mainframe"
+inf_s6_system_transporter_prototype,teleportador protótipo 2/32
+inf_s6_system_transporter_unoperational,teleportador+newline+inoperante+newline+requer assistência+newline+código de erro:54-1::00+newline+enquanto:sd2::desligado+newline+obrigado+newline+por sua cooperação
+inf_s6_system_turret_online,512 / _torre online
+inf_s6_system_turret_offline,512 / _torre offline
+inf_s6_system_online,_online
+inf_s6_system_offline,_offline
+inf_s6_system_armed,_armed
+inf_s6_system_disarmed,_disarmed
+inf_s6_system_secondary_stable,_sd_ secundário online+newline+cadeia da torre estabilizado
+inf_s6_system_secondary_broken,_sd_ secundário online+newline+torre 512 offline+newline+cadeia da torre com defeito+newline+/reset da torre requerido
+inf_s6_system_secondary_offline,_sd_ secundário offline
+inf_s6_system_secondary_searching,buscando...
+inf_s6_system_secondary_failure,_sd_ secundário falhou
+inf_s6_system_secondary_turret_offline,torre 512 offline
+inf_s6_system_secondary_rev,rev
+inf_s6_system_secondary_resetting,resetando...
+inf_s6_system_secondary_cancel,[ cancelar ]
+inf_s6_system_secondary_turret_reset,reset da cadeia da torre
+inf_s6_system_secondary_batch_1,lote 1 pronto...
+inf_s6_system_secondary_batch_2,lote 2 pronto...
+inf_s6_system_secondary_batch_3,lote 3 pronto...
+inf_s6_system_secondary_batch_4,lote 4 pronto...
+inf_s6_system_secondary_done,concluído
+inf_s6_system_cancel_confirmation,Tem certeza+newline+que você quer+newline+cancelar agora?
+inf_s6_system_cancel_yes,[ sim ]
+inf_s6_system_cancel_no,[ não ]
+inf_s6_system_protocol_2_17,protocolo 2-17
+inf_s6_system_protocol_2_18,protocolo 2-18
+inf_s6_system_mainframe,mainframe
+inf_s6_system_gate_115,porta 115
+inf_s6_system_inf_log,inf log
+inf_s6_system_protocol_1_0,protocolo 1-0
+inf_s6_system_protocol_1_12,protocolo 1-12
+inf_s6_system_protocol_1_28,protocolo 1-28
+inf_s6_system_protocol_1_32,protocolo 1-32
+inf_s6_system_protocol_1_35,protocolo 1-35
+inf_s6_system_protocol_1_0_gate,protocolo 1-0 gate
+inf_s6_system_protocol_1_12_gate,protocolo 1-12 gate
+inf_s6_system_primary_online,defesa primária+newline+sistema online
+inf_s6_system_primary_offline,defesa primária+newline+sistema offline
+inf_s6_system_human_recognition,padrão de reconhecimento de humanos
+inf_s6_system_human_recognition_reset,[ resetar ]
+inf_s6_system_human_recognition_confirm,Tem certeza?
+inf_s6_system_primary_failure,primary defense system failure
+inf_s6_system_inf_log,inf_log [outbreak patterns]
+inf_s6_system_terminate,sys rev terminate
+inf_s6_system_mur_1,mur@lab: olá?
+inf_s6_system_mur_2,mur@lab: não acredito.
+inf_s6_system_mur_3,mur@lab: você conseguiu desativar os sistemas de defesa.
+inf_s6_system_mur_4,mur@lab: agora podemos viajar livremente por toda a subrede. Nós podemos finalmente invadir o núcleo.
+inf_s6_system_mur_5,"mur@lab: infelizmente, para você, sua aventura acaba aqui."
+inf_s6_system_mur_6,mur@lab: obrigado e adeus.
+inf_s6_system_pod_dev,root get_pod :: init
+inf_s6_system_pod_eject,current_pod = get_id :: ejetar
+inf_s6_thoth_name,Thoth
+inf_s6_thoth,"Thoth+newline++newline+Patron of knowledge, secrets, writing and scribes. Appearance of a man with the head of an ibis holding a scribe's palette and stylus. He was also shown as a full ibis, or sometimes as a baboon. Thoth is an unusual god. Though some stories place him as a son of Ra, others say that Thoth created himself through the power of language. He is the creator of magic, the inventor of writing, the teacher of man and the messenger of the gods (and thus identified by the Greeks with Hermes). The divine record-keeper and mediator. A measurer and recorder of time."
+inf_s6_outro_1,> rev :: sd.sys
+inf_s6_outro_2,> alerta_init :: beam breach
+inf_s6_outro_3,> alert_id :: 0-72-64
+inf_s6_outro_4,> alert_desc :: cluster 0015 unscheduled transport
+inf_s6_outro_5,> exe :: interceptador.sys
+inf_s6_outro_6,> @mur :: Não há infestação.
+inf_s6_outro_7,> @mur :: Não há humanos.
+inf_s6_outro_8,> @mur :: Descanse agora.
+inf_s6_outro_9,> sd.sys :: hibernar()
+inf_s7_mind,The mind is everything. What you think you become.
+inf_s7_witness,Be the witness of your thoughts.
+inf_s7_king_1,We the King+newline++newline+welcome you in our+newline+winter palace.+newline++newline+May it be home for those+newline+who seek knowledge+newline+and repel solitude.
+inf_s7_king_2,We the King+newline++newline+welcome you in our+newline+south garden.+newline++newline+Those who seek peace+newline+and calmness will find it+newline+under the leaves of our blessed florae.
+inf_s7_king_3,We the King+newline++newline+bid you farewell+newline+and wish you stay safe.+newline++newline+We hope you find+newline+the destination of your travel.+newline+May we meet again one blessed day.
+inf_s7_control_room,control room
+inf_s7_dock_3,dock 3
+inf_s7_dock_4,dock 4
+inf_s7_layer,layer
+inf_s7_capsule,Landing capsule approaching dock 4.
+inf_s7_solenoid_x,solenoide X
+inf_s7_solenoid_y,solenoide Y
+inf_s7_solenoid_z,solenoide Z
+inf_s7_transmitter,transmissor
+inf_s7_docks,docas
+inf_s7_emergency_exit,saída de emergência
+inf_s7_you_are_here,você está aqui
+inf_s7_pamphlet_1,Bem-vindo!
+inf_s7_pamphlet_2,"Welcome to the world's+newline+famous Winter Palace+newline+of the Fourth Dynasty.+newline++newline+Built in 1832 by Sir Henry+newline+o'Toole, a young architect,+newline+barely known at the time,+newline+merely a servant of+newline+the King's master urbanist."
+inf_s7_pamphlet_3,After finishing this palace+newline+o'Toole gained respect+newline+in modern art circles+newline+of the Western Kingdom.+newline++newline+This Winter Palace+newline+and surrounding gardens+newline+are prime examples+newline+of anti-structural+newline+architecture freed from+newline+the boundaries of material+newline+durability.+newline++newline+Make sure you also+newline+visit the famous+newline+Kent Lighthouse+newline+built by the same architect.+newline++newline+Thank You for coming.+newline+Hope to see you again.
+inf_s8_reach,Não consigo alcançar...
+inf_s8_n,N
+inf_s8_e,L
+inf_s8_w,O
+inf_s8_s,S
+inf_s8_catalyst,catalyst stalagmite
+inf_s8_current_layer,status :: camada atual
+inf_s8_reflector,status :: refletor incompleto
+inf_s8_layer_number,número da camada
+inf_s8_tablet_1,"A woman came to our village.+newline+No one knows exactly how she entered,+newline+since the gate was closed at the time.+newline++newline+She went straight to the [term not translatable],+newline+and one minute later a beam of bright light+newline+shot from it straight up to the sky.+newline++newline+When she disappeared we knew that we were blessed+newline+with the presence of the goddess.+newline++newline+That was 742 years ago, and we worship her to this day."
+inf_s9_navigator,You need a layer navigator to enter the pyramid.
+inf_s9_gate_mur,Light of Shiva had drawn Murtaugh+newline++newline+to live in the Lighthouse.
+inf_s9_gate_liz,Light of Shiva had drawn Liz+newline++newline+to leave the Lighthouse.
+inf_s9_tablet_1,"When Murtaugh put his arm into the waterfall+newline+he noticed that he no longer had an arm,+newline+but seven of them.+newline++newline+That was not something unexpectable.+newline+What is a miracle though is that after he removed his+newline+arm from the water he could still see all seven+newline+layers of his left arm.+newline++newline+Not longer after that he understood, that focusing+newline+them all in one place created a portal. That was because+newline+all of his arms from all of the layers met at one place+newline+and caused the interdimensional karma flow at his fingertips."
+inf_s9_tablet_2,"- Why does Murtaugh talk only to Elizabeth?+newline++newline+- She's the only person he can see.+newline+Remember, we're one-layer.+newline+We're like a drawing on a piece of paper to him.+newline+A drawing that was erased, redrawn and erased again.+newline+Seven times over."
+inf_s9_tablet_3,"When Murtaugh saw the cat changing the layer of reality+newline+he falsely connected that event with Einstein's theory of relativity.+newline++newline+That was because in those early days Murtaugh was just beginning+newline+to understand the structures of reality.+newline++newline+During his intellectual growth he was able to come+newline+across the cat several times. He grew attached to the animal.+newline++newline+When asked to take care of the cat, Elizabeth+newline+took him back to his appropriate dimension in the first layer."
+inf_s9_tablet_4,"Nobody could predict that the enlightenment would cause such destruction.+newline+Even Murtaugh himself didn't know what happened. He was already looking+newline+at all layers at once. He was already removed from one-dimensionality.+newline+To be back in only one layer, Murtaugh had to lose his focus.+newline++newline+After he focused his mind back on the structure of the plan,+newline+his exploration teams didn't understand what happened.+newline+Some called it abandonment. Others - rapture.+newline++newline+No wonder they panicked.+newline++newline+They did not even have a philosophical device to comprehend+newline+the true nature of his disappearance."
+inf_s9_tablet_5,"- The greatest mystery and misconception+newline+of the doctrine is that Murtaugh gained his powers.+newline++newline+- He didn't?+newline++newline+- No. They were given to him.+newline++newline+- By whom?...+newline++newline+- By Shiva, naturally."
+inf_s9_tablet_6,"If he's the explorer, she's the healer.+newline+If he's the child, she's the older sister.+newline+When he couldn't understand,+newline+she knew that it wasn't his fault.+newline+When he fell, she picked him up.+newline+When they wanted to kill him, she explained.+newline++newline+When he died, she carried his words.+newline+When she died, we buried her alongside him.+newline+They remain together in the light of Shiva.+newline++newline+Your journey is almost at its end.+newline+You've reached the highest level+newline+of understanding possible to a one-layer mind.+newline+If you want to leave the structure, Shiva will guide you.+newline++newline+Just follow him."
+inf_s9_tablet_7,"- There are seven main layers of reality.+newline++newline+- Yes, that's common knowledge.+newline++newline+- But there is another layer. The one often+newline+misinterpreted as the layer of time.+newline++newline+- If it's not time, what is it then?+newline++newline+- It's the layer of Light. You see,+newline+when you move through the field of atoms+newline+frozen in time, the friction causes them+newline+to emit visible light. It's everywhere+newline+you move. It's not a guiding light.+newline+You're the one who's guiding that light.+newline+Where you will go is entirely up to you."
+inf_s9_tablet_8,"- How is it possible, that people are still+newline+coming through the loop and trying+newline+to turn off the defense systems?+newline+After all these years...+newline++newline+- What would you have me do?+newline+Destroy his creation?+newline+Destroy the whole section?+newline++newline+- I don't know... Maybe...+newline++newline+- You're talking about destroying+newline+our history. What's next, book burning?+newline++newline+- No, of course not. But maybe... A sign?+newline+That it's no longer necessary+newline+to shut down the defenses?+newline++newline+- And what about those+newline+in the eighth layer?+newline++newline+- I stand corrected..."
+inf_s9_tablet_9,"Murtaugh never said it was about revenge.+newline+But by then he was well used to not being understood.+newline+Back then they didn't yet have seven-layer bullets.+newline++newline+The only option was to meet him at the knot.+newline+The place where all dimensions intertwined to become one.+newline+Then and there, they waited.+newline++newline+And when he appeared, Murtaugh was finally able to see+newline+what had happened. He fell to his knees.+newline+She came to him, sat down beside him and they started talking.+newline++newline+The bullets never reached them."
+inf_s9_tablet_10,"After the second enlightenment Murtaugh dedicated his life+newline+to restoring order. While the main layers flourished+newline+under his word, the third dimension remained broken.+newline++newline+Murtaugh originally came from the third layer, therefore+newline+there was nothing he could do to bring it back to an unbroken state.+newline++newline+He often spoke about it as being a thorn in his heart.+newline+This was consuming him until the day Shiva gave him comfort+newline+of knowledge of the future.+newline++newline+Murtaugh was already dying, and just before he drew his last breath+newline+the light came to him and showed him what was to come.+newline+We believe he stayed in that moment forever."
+inf_s9_broken_layer_plate,ilegível
+inf_s9_tomb_mur,túmulo de Murtaugh
+inf_s9_tomb_liz,túmulo de Elizabeth
+inf_s9_coffin_mur_1,"Murtaugh, o poderoso"
+inf_s9_coffin_mur_2,"the caretaker, the overseer"
+inf_s9_coffin_liz_1,"Elizabeth, the merciful"
+inf_s9_coffin_liz_2,"the healer, the mother"
+inf_s32_greeting,greeting glyph
+inf_s32_air,air glyph
+inf_s32_plate_name_1,wind
+inf_s32_plate_name_2,fire
+inf_s32_plate_name_3,sand
+inf_s32_plate_name_4,air
+inf_s32_ixtab,Ixtab
+inf_s32_plates,dig through the sand
+inf_s32_plates_and,and
+inf_s32_drink,drink
+inf_s32_sand,sand
+inf_s32_mole,mole
+inf_s32_ah_puch,Ah Puch
+inf_s32_chak_chel,Chak Chel
+inf_sf_morgue,morgue
+inf_s10_power_source,Power source.+newline+Watch your step.
+inf_s10_harbor_welcome,We the King+newline++newline+welcome you in our+newline+northern garden docks.+newline++newline+Those who seek peace+newline+and calmness will find it+newline+under the leaves of our blessed florae.
+inf_s10_docking_schedule,docking schedule
+inf_s10_ship_id,Please enter ship ID number.
+inf_s10_ladder_control,ladder+newline+control
+inf_s10_signal_docking_ladder_1,docking ladder not present
+inf_s10_signal_docking_ladder_2,docking ladder standing by
+inf_s10_captain_0,insert captain's ID
+inf_s10_captain_1,"welcome aboard, captain"
+inf_s10_st_christopher,São Cristóvão
+inf_s10_st_alexius,Santo Aleixo de Roma
+inf_s10_loop_1,Royal storage facility No. 32
+inf_s10_loop_2,storage unit 32/1
+inf_s10_loop_3,Royal storage facility No. 33
+inf_s10_loop_4,storage unit 33/1
+inf_s10_loop_5,storage unit 33/2
+inf_s10_loop_6,storage unit 33/3
+inf_s10_loop_7,storage unit 33/4
+inf_s10_loop_warning,Caution!+newline++newline+Spatial anomaly leak ahead!
+inf_s10_data_0,- -  insufficient data  - -
+inf_s10_data_1,data vault status = 1
+inf_s10_blockade_info,infestation blockade in effect
+inf_s10_s3c_1,"- Are we alone?+newline++newline+- There's always someone right beside you. Sometimes it's someone from another exploration team, sometimes it's me. Just one sub-layer away. I haven't finished rebuilding things yet."
+inf_s10_s3c_2,"- What happened to sunshine_bunnygirl_17?...+newline++newline+- Don't worry, she left the Net years ago. As far as I know she's alive and well."
+inf_s10_s3c_3,"- Will you ever come back to the Net?+newline++newline+- I never left. There are still people trapped inside, so my mission is to navigate the infinity to find them and bring them home."
+inf_s10_s3c_4,"- What will happen to me now?+newline++newline+- Well, you're a free individual, you can do whatever you want. You can leave the Net if you choose to. But if you decide to stay, there are still things waiting to be discovered in the far reaches of the Net.+newline+I know we need to get to the Engine, so that's most likely my next mission to give out to the exploration team."
+inf_s10_shiva,S.H.I.V.A.
+inf_s10_ee_protocol,emergency+newline+evacuation+newline+protocol
+inf_s10_loop_lon,lon
+inf_s10_loop_lat,lat
+inf_s10_drill_1,Release both clamps+newline+before operating the drill.
+inf_s10_drill_2,Drill standing by.
+inf_s10_hatch_0,Power all range confirmators+newline+before operating the hatch.
+inf_s10_hatch_1,Hatch standing by.
+inf_s10_lab,Exploration teams and restoration staff only.
+inf_s10_karma_stabiliser_0,Karma stabiliser not present.
+inf_s10_karma_stabiliser_1,Karma stabiliser standing by.
+inf_s10_shiva_monitor,- - - - - - - - - - S.H.I.V.A. - - - - - - - - - -+newline++newline++newline++newline++newline++newline+[@sh] :: root.ping//+newline++newline+access denied
+inf_s10_coin_1,The coin no longer has numbers etched on it...
+inf_s10_coin_2,Why is it still here?...
+inf_s10_spoon_1,The spoon has no purpose...
+inf_s10_spoon_2,Why hasn't it shifted away?...
+inf_sn_rcr_stabiliser,Karmic field stable.
+inf_sn_moth,"Moth infused with karmic energy, circa 1795."
+inf_sn_triumph,triumph
+inf_sn_karma_chalk_1,Wait... Where is the ladder?...
+inf_sn_karma_chalk_2,If only I had karma chalk... I would be able to draw it...
+inf_sn_so_much_noise,So much noise... I can't take it...
+inf_sn_more_bandages,Need more bandages...
+inf_sn_wheres_the_ladder,Where is the ladder?
+inf_sn_did_not_bandage,"I didn't do it. You can trust me, you know that."
+inf_sn_filtration_0,filtration.sys :: _offline / error ID: unknown
+inf_sn_filtration_1,filtration.sys :: _online
+inf_sn_cat_hatch,Do not use during rain.
+inf_sn_rad,jammer.sys :: _offline / _parent station connection lost
+inf_sn_security_gate_1,primary security gate
+inf_sn_security_gate_2,secondary security gate
+inf_sn_gate_bool_0,enabled
+inf_sn_gate_bool_1,disabled
+inf_sn_der_junction,laser junction :: horizontal node
+inf_sn_vert_junction,laser junction :: vertical node
+inf_sn_ticket_info,Please return ticket after use.
+inf_sn_fil_junction,:: laser junction ::
+inf_sn_sta_return,Please return karma vial after use.
+inf_sn_sta_grid_0,Surveillance grid unoperational.
+inf_sn_sta_grid_1,Surveillance grid standing by.
+inf_sn_cd_0,Surveillance station unoperational.
+inf_sn_cd_1,Surveillance station standing by.
+inf_sn_mur,@mur: _
+inf_sn_spatial_anomaly,Caution! Spatial anomaly leak ahead!
+inf_sn_jig_insert_coin,insert coin
+inf_sn_arch_20_desc,Cross section of skylight atrium.
+inf_sn_no_tickets,access denied :: you need location tickets to travel
+inf_sn_no_home_ticket,access denied :: you can't travel without home unit ticket
+inf_sn_no_ticket_transporter,There's no ticket transporter in this location.
+inf_sn_ticket_current,status :: current connection
+inf_sn_not_this_way,Not this way. Not like this.
+inf_sn_monitor_title_malformed,Error :: data string malformed. Contact nearest surveillance station operator.
+inf_sn_monitor_title_2114,the Reasoning
+inf_sn_monitor_2114,"- Why did monoliths start taking the place of transporters?+newline++newline+- Isn't that kind of obvious?+newline++newline+- Well, at first glance - yes. They were using existing teleportation infrastructure to further the reach of the monolith grid. But why would the net use crude ways of infestation?+newline++newline+- There was a time, when S.H.I.V.A. tried reasoning with humans. She was trying to see order in chaos, value in human design. You could say she was following in human footsteps."
+inf_sn_monitor_insert_ticket,Insert ticket. In case of power outage do not insert ticket.
+inf_sn_monitor_title_2702,the Realisation
+inf_sn_monitor_2702,I have to slow down.+newline+Time flies by too quickly.
+inf_sn_monitor_title_2060,the Call
+inf_sn_monitor_2060,"We have to go back, Liz.+newline+We have to go back."
+inf_sn_monitor_2062,Don't go there. Don't.+newline+There's nothing out there.+newline+Nothing.+newline+It's just hubris.+newline+Hubris forever.
+inf_sn_monitor_2323_1,diagram 2-94
+inf_sn_monitor_2323_2,diagram 2-93
+inf_sn_monitor_2324,"- What is the significance of the number 32?+newline+- It's your probability range.+newline+- ?...+newline+- When you are in any given location, the highest number of possible moves is four.+newline+- Four?+newline+- Left, right, up, down?+newline+- Ah, yes, of course.+newline+- When you change location, there are eight possible combinations of locations you can end up in.+newline+- How come?+newline+- Count how many door variations you can get in the new room, given the door you just went through is already determined.+newline+- ?...+newline+- Maybe you should familiarise yourself with diagram 2-94."
+inf_sn_monitor_2003,void access
+inf_sn_monitor_2004,infestation node
+inf_sn_monitor_2005,portal stabiliser prototype
+inf_sn_monitor_2463_0,Location connection not established.
+inf_sn_monitor_2463_1,Location connection restored.
+inf_sn_monitor_2566,the Early Period
+inf_sn_monitor_2562,"the Early Period+newline++newline+In his early life the Architect was focused on the big picture. He was trying to capture the grand design of the net, its structure and workings. We can observe drawings of different architecture styles based on the age of the cluster. We have to emphasise the value of pre-shift architectural drawings. While you can study the original design by looking at shifted construction, here we have the originals drawn as they were. In his travels the Architect was targeting monuments of greater meaning and position.+newline+Back then he was still trying to understand."
+inf_sn_monitor_2564,the Late Period
+inf_sn_monitor_2563,"the Late Period+newline++newline+In his older age, the Architect focused on smaller scale and details. We can observe drawings of single rooms and at most single locations. This period brings us a lot more information about the net than the early works of grand designs. We can also recognise various kinds of machinery from different ages of the cluster. In many cases these are the only archives of pre-shift design. Later the Architect focused on drawing single objects that could be found within locations.+newline+By that point the Architect abandoned the need to understand."
+inf_sn_monitor_2074,Vicinity archive.+newline++newline+Pre-shift ::+newline+Energy crystalline shard sequencer.+newline++newline+Post-shift-1 ::+newline+Wall-mounted multipurpose stash unit.+newline++newline+Post-shift-2 ::+newline+Framed Architect drawing of pre-shift domicile structure.+newline++newline+Post-shift-3 ::+newline+Location non-existent.
+inf_sn_monitor_2025,"There are people who question the validity of subnet exploration.+newline+They say any mapping effort is futile since it's been proven that not only particular rooms, but entire regions can shift during the phase change.+newline++newline+Then there are others, who just live by the code of an exploration team."
+inf_sn_monitor_2852,"- The importance of drawing.+newline++newline+- Yes?+newline++newline+- This is one of the primary rules of exploration. Why?+newline++newline+- You see, drawing lets you see things. It lets you slow down, focus, tune into the surroundings. See details you'd never notice otherwise.+newline++newline+- But... Taking pictures and three dimensional scans of locations lets you archive everything.+newline++newline+- Archive, yes. All those thousands of archived pictures gathering proverbial dust on surveillance data discs, not seen by anyone since the day they were created. Taking photographs is the opposite of drawing. It forces you to stop looking at the object, puts a literal barrier between you and the thing you want to see. You take a picture and move on.+newline++newline+- But... The amount of data saved is unquestionably of greater value.+newline++newline+- I don't care about data. If it were data we're after, we would just tap into the subbot route-mapping system. We're looking for the human touch. Human hand in the sea of silent data. I want someone to tell me: Look at this, I found it and it's so important I decided to spend my time drawing it. Nothing that can be done instantaneously has any value."
+inf_sn_wiq_letter,"I am alone.+newline++newline+It wasn't like this in the past. There used to be so many theorists throughout the entirety of the outer ring. I remember my friends, people I worked with closely on my exploration team, people from other teams that we were in contact with. People were exploring eagerly, each new thing was fueling our minds, letting us theorize about the laws of physics governing this structure.+newline++newline+But now - the world is quiet.+newline++newline+I don't know what happened. I don't remember much, but I think a shift happened. However, shifts don't impact human minds - that is what they said. So there are two possibilities, either we were lied to, or something much worse happened. Because everyone is gone but me. I don't know why I was the only one spared. I don't like it. I don't like that there's so much surveillance equipment all around. It didn't use to be like that. I guess the net is pushing back, trying to end the infestation. Infestation... I haven't heard that term for so long... But now, since everyone is really gone, I think it's time to accept that the old agreements have expired. But my mind is cloudy. I don't know what happened. I really don't.+newline++newline+I can only theorise."
+inf_sn_wiq_theory,"The Theory of Everything.+newline++newline+Preamble:+newline+This theory of everything is dedicated to all my friends that disappeared. I want to remember all their theories. I want to create a unifying theory based on all their input. I'm not sure if I'll be able to do it. But I'll try.+newline++newline+[section smudged beyond readability]+newline++newline+Assumption:+newline+Submachine is not desolate. it's not empty. It's actually full of explorers. However, once you use a portal, transporter, transportal, or any kind of teleportation device for the first time, you phase into one of infinite sub-layers derived from eight main layers. You're close to other people, but not quite there. So if you visited the Lab and used that transporter - it's too late for you. Once the net opens up for you, it removes your chance of meeting anyone else. Except for Murtaugh of course. He can grab you at any time.+newline++newline+Speaking of Murtaugh. His role in the great picture was not as significant as the archivists are trying to tell you. Even though he spent 32 years exploring the subnet, he was operating only in one cluster. Karma range has its limits and at some point the void distance between clusters reaches a size that even he couldn't traverse. The singularity happened to him as it did to all of us. He did not create it.+newline++newline+In his travels he did not see the Engine."
+inf_sn_monitor_2251,_resource_request+newline+_bot_ID 41-32-95-96+newline+maintenance round 170k83+newline+[loc id shifted] energy pipe broken+newline+crystalline conductor leakage+newline+energy loss 12.32%+newline+awaiting instructions
+inf_sn_monitor_2241,"I've heard stories.+newline++newline+Well, not actually heard, per se. I just read them on pieces of paper. I read that there were exploration teams.+newline+For the love of god, did he really send teams out here?+newline++newline+What happened to those people? Where do their shattered bones lie right now?+newline++newline+I know that everywhere I look I'm probably looking at bones. The subnet is everywhere. How many people had to die for him to gather the information he so dearly needed?+newline++newline+Jesus.+newline++newline+I never joined any exploration team. I never saw anybody. I'm not much of an explorer.+newline+If you tell me to do something - I will.+newline+But I see no point in exploring the infinity. Maybe that's why he chose me for the defsys mission.+newline+Maybe that's the reason I'm back in the loop again.+newline++newline+It's a house of mirrors.+newline+Everywhere I look, it's the same."
+inf_sn_monitor_2592,"On Karmic Infusion.+newline++newline+Excerpt from the Book of Second Age Mechanics written by an anonymous architect of the Southern Bay Monastery, approximately 10 to 15 years after the singularity.+newline++newline+The biggest questions facing scientists of that era were naturally concerning the karma crystal. Once discovered as the origin of karmic water in Kent, the question was: is it possible to infuse plain water with karmic characteristics outside the natural environment? Is it possible to perhaps infuse other materials? Other objects? Since infusing water turned out to be quite easy, and there was no known solution for infusion of other materials yet, they thought of a crude workaround. They were able to infuse objects that could absorb karmic water. That meant you could have karmic clothes, sponges, chalk, flammable arrowheads, etc. What's interesting is that you could also create karmic plants by watering them with karma infused water.+newline++newline+There was a number of karmic infuser machine prototypes throughout the years. As we mentioned before, the procedure was rather simple and techniques were further developed from the late twenties up until June of 42, when the first commercial machine was released to the public, rendering karmic vendor parlours obsolete.+newline++newline+To learn more about karmic infusers please refer to fig. ch.5-08 to -14."
+inf_sn_monitor_2962,- That's impossible. Nothing has changed. The coordinates are the same. Yet everything is gone. There's nothing there now. I can't see anything.+newline+- Don't worry. He sees you. That's all you need to know.+newline+- I don't understand.+newline+- You don't have to. Just accept it.
+inf_sn_monitor_2393,"- When did the Architect start drawing lighthouses?+newline++newline+- You won't find this information in the archive. There was a time, between grand design and small scale when he created an entire collection of lighthouse drawings. As I understand, he loved the design and function of those buildings. His admiration led him to explore and find them in the void. Notice how in these drawings he always adds a sea surrounding the lighthouse. Nobody really knows why. One theory states these structures were built close to large bodies of water in the olden days of the first era. He always wanted to live in a lighthouse. However, by some strange twist of fate - he never did.+newline++newline+- But Murtaugh did.+newline++newline+- Yes."
+inf_sn_link_rot,"- Numerical transporters were removed from circulation after link rot extended to over 18% of location addresses.+newline++newline+- What caused that link rot?+newline++newline+- Structural shifts and spatial anomalies. And time, naturally.+newline++newline+- How come they still work in the Lab and the Root sections?+newline++newline+- The Root is omni-layered and a founding stone of the Royal Perseverance Act. The Lab is rot resistant due to its direct proximity and linkage to the Root."
+inf_sn_wait,Wait... What layer is this?
+inf_sn_catch_liz,Liz: So... Did you ever+newline+catch me after all?...
+inf_sn_catch_mur,"Murtaugh: You know there are seven+newline+answers to that question, my dear Liz."
+energy_crystal,energy crystalline shard
+secret,micro stabiliser
+spoon,spoon
+hammer,hammer
+wrench,wrench
+lighter,lighter
+soap,makeshift arc breaker
+cipher_plate_1,cipher plate
+cipher_plate_2,cipher plate
+s0_plate,stone plate
+s0_tongue_1,brass tongue
+s0_tongue_2,brass tongue
+s0_key_1,jewel key
+s0_key_2,jewel key
+s0_key_3,jewel key
+s1_fuse,electrical fuse
+s1_pearl,pearl
+s1_coin,ancient coin
+s1_tile_a,tile A
+s1_tile_b,tile B
+s1_tile_c,tile C
+s1_tile_d,tile D
+s1_valve,valve
+s1_lever_wheel,lever wheel
+s2_cog,cog wheel
+s2_key_1,2nd floor key
+s2_key_2,bathroom key
+s2_key_3,digout key
+s2_key_4,sewer key
+s2_coil_1,positive coil
+s2_coil_2,negative coil
+s2_pamphlet,tourist pamphlet
+s2_fuse,electrical fuse
+s2_movie_ram,movie memory
+s2_handle,lever handle
+s2_id_card,ID card
+s2_light_bulb,light bulb
+s2_relay,power relay
+s3_leaf,green leaf
+s4_chimney_brush,chimney brush
+s4_gas_handle,gas handle
+s4_rubber_tube,rubber tube
+s4_soap,soap
+s4_knife,knife
+s4_orb,orb
+s4_stone_blockade,stone blockade
+s4_stone_key,stone key
+s4_turbine,turbine
+s4_beaker_1,empty beaker
+s4_beaker_2,beaker with water
+s4_beaker_3,acidioxide
+s4_cd,data disc
+s4_arm,golden arm
+s4_key_1,chest key
+s4_key_2,attic key
+s4_key_3,lab key
+s4_naphthalene,naphthalene
+s4_sceptre,golden sceptre
+s4_screwdriver,screwdriver
+s4_vial_1,empty vial
+s4_vial_2,iron trioxide
+s4_vial_3,vial with water
+s4_funnel,funnel
+s4_tile_a,tile A
+s4_tile_b,tile B
+s4_tile_c,tile C
+s4_tile_d,tile D
+s4_valve,valve
+s4_coil_1,empty coil
+s4_coil_2,charged coil
+s5_brief,mission brief
+s5_metal_box,steel cube
+s5_key,rusty key
+s5_key_emergency,emergency key
+s5_lead_casting,lead casting
+s5_light_bulb,light bulb
+s5_coil_1,empty coil
+s5_coil_2,charged coil
+s6_key_card,key card
+s6_cube,"steel cube, there's something rattling inside..."
+s6_pod,connection pod
+s7_code_card,code card
+s7_steel_tube,steel tube
+s7_gong_stick,gong stick
+s7_stone_1,key stone
+s7_stone_2,key stone
+s7_stone_3,key stone
+s7_key_1,control room key
+s7_key_2,chest key
+s7_key_3,safe box key
+s7_key_stone_1,triangle stone key
+s7_key_stone_2,square stone key
+s7_key_stone_3,round stone key
+s7_solenoid,solenoid
+s7_transmitter,transmitter
+s7_glowing_box,monolith catalyst
+s7_token,token
+s7_light_bulb,light bulb
+s7_pamphlet,tourist pamphlet
+s7_note_symbol_order,sequence order
+s7_note_stone_lock_1,stone grid
+s7_note_stone_lock_2,stone grid
+s7_note_stone_lock_3,stone grid
+s7_note_pebble_order,gate order
+s8_key,key
+s8_crowbar,improvised crowbar
+s8_coil,energy coil
+s8_cube,cube
+s8_sphere_1,stone sphere
+s8_sphere_2,stone sphere
+s8_sphere_3,stone sphere
+s8_sphere_4,stone sphere
+s8_fuse,fuse
+s8_step,ladder step
+s8_handle,small chest opener
+s8_cog,cog wheel
+s8_wheel_button,wind rose button
+s8_energy_trail,energy trail
+s8_small_mirror,small mirror
+s8_stone_pyramid,pyramid cell
+s8_catalyst_stone,catalyst stone
+s8_wire,wire
+s8_drawer_handle,drawer handle
+s8_power_cell,car battery
+s8_arm_1,beamer arm
+s8_arm_2,beamer arm
+s8_arm_3,beamer arm
+s8_stone_button,stone button
+s8_valve,valve
+s8_pillar_code_1,piece of pillar code
+s8_pillar_code_2,piece of pillar code
+s8_wind_rose_code,wind rose code
+s8_main_switch_code,pyramid code
+s9_brass_rod,brass rod
+s9_brass_jug,empty brass jug
+s9_karmic_water,karmic water
+s9_cog_wheel,cog wheel
+s9_scarab,brass scarab
+s9_stone_key,stone key
+s9_ladder_rung,ladder rung
+s9_brass_bowl_1,brass bowl
+s9_brass_bowl_2,brass bowl
+s9_brass_bowl_3,ritual brass bowl
+s9_brass_key_1,brass key
+s9_brass_key_2,gate key
+s9_brass_sphere,brass sphere
+s9_karmic_seal_1,karmic seal
+s9_karmic_seal_2,karmic seal
+s9_mur_seal,golden seal of Murtaugh
+s9_liz_seal,golden seal of Elizabeth
+s9_valve,brass valve
+s9_rope,climbing rope
+s9_jadeite_tablet,jadeite tablet
+s9_tile_1,brass tile
+s9_tile_2,brass tile
+s9_tile_3,brass tile
+s9_tile_4,brass tile
+s9_eye_1,feminine sarcophagus ornament
+s9_eye_2,masculine sarcophagus ornament
+s9_chest_key,chest key
+s9_scale,brass scale
+s9_lever_handle,lever handle
+s10_skull,explorer's skull
+s10_karma_vial,karma vial
+s10_ship_fuse,bottle fuse
+s10_light_sphere,light sphere
+s10_portal_stabiliser,portal stabiliser
+s10_data_tape,data tape
+s10_ladder_step,ladder step
+s10_ladder_piston,ladder piston
+s10_fuse_1,electrical fuse
+s10_fuse_2,fuse
+s10_stone_cube,stone cube
+s10_pearl,pearl
+s10_coil,coil
+s10_ship_id,ship ID number
+s10_stone_grape,stone grape
+s10_door_valve,hatch valve
+s10_loop_stabiliser,loop stabiliser
+s10_karma_fuse,karma fuse
+s10_plasma_charge,plasma charge
+s10_clamp_handle,drill clamp handle
+s10_air_lock_handle,airlock handle
+s10_range_confirmator,range confirmator
+s10_explorers_chip,explorer's chip
+s10_stabiliser_1,empty karma stabiliser
+s10_stabiliser_2,karma stabiliser
+s10_plasma_canister,force field plasma canister
+s10_cog_wheel_1,cog wheel
+s10_cog_wheel_2,cog wheel
+s10_vector_rod,vector finder
+s10_blockade_tool,blockade removal tool
+s10_hatch_valve,hatch valve
+s10_insulator_cap,insulator cap
+s10_telescope_head,telescope head
+s10_telescope_tube,telescope tube
+s10_meditation_glyph,meditation glyph
+s10_portal_charge,portal stabiliser battery
+s10_root_path_finder,root path finder
+s10_alt_lever,unlock lever
+s10_alt_stone,stone weight
+s10_plasma_coil,plasma coil
+s10_crown,portable light crown
+s10_converter,portable light crown converter
+s10_aaa_battery,AAA battery
+s10_tile_a,tile A
+s10_tile_b,tile B
+s10_tile_c,tile C
+s10_tile_d,tile D
+s10_valve,valve
+s10_id_card,ID card
+s10_magnet,neodymium magnet on a string
+s10_relay,power relay
+s10_note_symbol_1,rotary symbol
+s10_note_symbol_2,rotary symbol
+s10_note_symbol_3,rotary symbol
+s10_note_symbol_4,rotary symbol
+sf_movie_reel,movie reel
+sf_shank,shank
+sf_slide,photo slide
+sf_key,key
+sf_key_card,key card
+sf_patient_nr,patient number
+sf_dimmer,dimmer
+sf_small_key,small key
+sf_seal_1,chest seal
+sf_seal_2,chest seal
+s32_jadeite,jadeite
+s32_bowl_1,wooden bowl
+s32_bowl_2,wooden bowl filled with sand
+s32_weight_stone,weight stone
+s32_topaz,topaz
+s32_eye,stone eye
+s32_bacab_1,winter bacab plate
+s32_bacab_2,autumn bacab plate
+s32_bacab_3,summer bacab plate
+s32_bacab_4,spring bacab plate
+s32_stick,wooden stick
+s32_cone,catalyst cone
+s32_lever,lever handle
+sn_weight_stone,weight stone
+sn_companion_stone,weight companion stone
+sn_pyramid_key,pyramid key
+sn_shutter_switch,shutter switch
+sn_copper_plate,copper plate
+sn_chalk_1,piece of chalk
+sn_chalk_2,karma infused piece of chalk
+sn_turbine_blade,turbine blade
+sn_vial_karma,karma vial
+sn_vial_plasma,plasma vial
+sn_vial_stabiliser,stabiliser fluid vial
+sn_bell_cube,bell cube
+sn_stone_plate,stone plate
+sn_karma_vessel_1,karmic vessel
+sn_karma_vessel_2,karmic water
+sn_lever_handle_1,lever handle
+sn_lever_handle_2,lever handle
+sn_tile_a,tile A
+sn_tile_b,tile B
+sn_tile_c,tile C
+sn_tile_d,tile D
+sn_valve,valve
+sn_sigil_1,sigil
+sn_sigil_2,sigil
+sn_cd,blank surveillance data disc
+sn_npg_note,mixing console settings
+sn_tongue_1,brass tongue
+sn_tongue_2,brass tongue
+sn_brig_key,brig key
+sn_candle,candle
+sn_cube_key,cube password packet
+sn_ticket,transporter ticket
+sn_tickets,transporter tickets
+sn_ticket_alt,pre-shift basement variant
+sn_ticket_anc,ancient section side aisle
+sn_ticket_asy,asylum loop
+sn_ticket_bos,Architect's study room
+sn_ticket_bra,brass hatch with triumph inscription on the wall
+sn_ticket_bri,ship's brig
+sn_ticket_cav,karma-luminescent cave paintings
+sn_ticket_cro,human-machine data sharing interface
+sn_ticket_cub,cube loop
+sn_ticket_der,laser junction :: horizontal node
+sn_ticket_dig,pre-shift lighthouse ruins variant
+sn_ticket_fil,laser junction infiltration station
+sn_ticket_gre,surveillance station
+sn_ticket_hal,the cellar
+sn_ticket_hel,hallway caught in spatial anomaly
+sn_ticket_hub,pre-shift transit station
+sn_ticket_ind,Hindi temple aisle
+sn_ticket_iro,iron triumph loop
+sn_ticket_jig,the arcade
+sn_ticket_ken,stone waterfall
+sn_ticket_lad,left side of the rift
+sn_ticket_lae,right side of the rift
+sn_ticket_los,airplane wreck caught in spatial anomaly
+sn_ticket_mot,karmic manipulation museum unit
+sn_ticket_mur,Murtaugh's observatory unit
+sn_ticket_ooo,explorer's home unit
+sn_ticket_oru,Ouroboros ruins
+sn_ticket_pil,mathematical museum unit
+sn_ticket_pir,glowing pyramid
+sn_ticket_por,reception hall spatial loop
+sn_ticket_pri,prison unit
+sn_ticket_pro,defense system interface
+sn_ticket_pur,micro loop experiment
+sn_ticket_rad,number station
+sn_ticket_red,cathedral ruins
+sn_ticket_rom,roman church crypt
+sn_ticket_sch,the duality of unknown outcome
+sn_ticket_sin,dead end
+sn_ticket_sta,_root surveillance station
+sn_ticket_tic,engine proxy
+sn_ticket_til,tilted gravity anomaly
+sn_ticket_tra,energy transition
+sn_ticket_vio,ancient section right aisle
